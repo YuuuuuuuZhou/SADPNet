@@ -35,7 +35,7 @@ python tools/train.py configs/SADP_Net/SADP_Net.py
 
 ## Testing
 
-run the train script
+run the test script
 
 ``` bash
 cd [project-root]
